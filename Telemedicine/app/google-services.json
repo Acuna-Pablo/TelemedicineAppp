@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743352174617",
+    "firebase_url": "https://telemedicine-66e91.firebaseio.com",
+    "project_id": "telemedicine-66e91",
+    "storage_bucket": "telemedicine-66e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743352174617:android:539687515a18ace1728288",
+        "android_client_info": {
+          "package_name": "com.example.telemedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743352174617-lc78kc5vdv9qo1qq9fmsi2tkpbdq5mu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4V-rMIAhX8d4YhiM7dIj3qOcoZxExQ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743352174617-lc78kc5vdv9qo1qq9fmsi2tkpbdq5mu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
